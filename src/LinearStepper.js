@@ -26,7 +26,7 @@ function getSteps() {
     "Add Unit",
     "Unit 1 Componants",
     "Componants",
-    "Vender 1 Milestone",
+    "Vender 1 Milestonee",
   ];
 }
 const BasicForm = () => {
